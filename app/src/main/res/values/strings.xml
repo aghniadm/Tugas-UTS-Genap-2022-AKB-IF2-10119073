@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatatanHarian</string>
+
+    //Headings
+    <string name="heading_one">Dibuat oleh</string>
+    <string name="heading_two">About Apps</string>
+    <string name="heading_three">Menu on Apps</string>
+
+    //Description
+    <string name="desc_one">Aghnia Dewi Mahiranie - 10119073</string>
+    <string name="desc_two">Aplikasi ini dibuat untuk memenuhi tugas pengganti UTS AKB.</string>
+    <string name="desc_three">Profile, Catatan Harian, About</string>
+</resources>
